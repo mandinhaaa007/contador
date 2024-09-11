@@ -1,0 +1,7 @@
+#Como fazer um looping
+#Iniciando a variavel
+contador =0
+#ultilizando while
+while contador <500236277300000000:
+    print("O valor do contador é:",contador)
+    contador +=10
